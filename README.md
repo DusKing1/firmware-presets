@@ -1,6 +1,6 @@
 # Firmware Presets
 
-Configuration Snippets for the Betaflight Flight Controller Firmware
+A simple way to configure your Betaflight Flight Controller Firmware settings.
 
 
 ## Snippet template
